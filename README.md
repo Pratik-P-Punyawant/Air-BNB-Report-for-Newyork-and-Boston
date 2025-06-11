@@ -1,11 +1,5 @@
 ### **Project Title**: Airbnb Data Analysis for New York and Boston
 
-**Tool Used**: Power BI\\n
-**Project Type**: Data Visualization & Business Intelligence\\n
-**Domain**: Real Estate / Tourism / Data Analytics\\n
-
----
-
 ### **Project Description**:
 
 This project involved designing an interactive Power BI dashboard to analyze Airbnb listings in **New York** and **Boston**. The goal was to uncover actionable insights into rental pricing, host behavior, availability, and neighborhood trends to aid decision-making for potential hosts, guests, and property investors.

@@ -1,9 +1,8 @@
 ### **Project Title**: Airbnb Data Analysis for New York and Boston
 
-**Tool Used**: Power BI
-**Project Type**: Data Visualization & Business Intelligence
-**Duration**: \[Add your project duration here]
-**Domain**: Real Estate / Tourism / Data Analytics
+**Tool Used**: Power BI\\
+**Project Type**: Data Visualization & Business Intelligence\\
+**Domain**: Real Estate / Tourism / Data Analytics\\
 
 ---
 
